@@ -1,0 +1,7 @@
+The route follows the western part of the spine of Low Tatras (red hiking trail - perfectly marked, with time estimates). The exact route can be found here https://mapy.hiking.sk/?hpid=gGCYq (zoom in for details). It includes detailed info about elevation, distance, and times (for hiking) on a topographical hiking map. Length is ~46km, average altitude is ~1600m, maximum ~2000m, total ascent ~2500m. Hiking time estimate is ~16h. There is a bus connection to/from both ends of the route (more frequent at Donovaly - west end, less frequent at Trangoska - east end).
+
+There is a mountain running race following exactly this route. It is called "Non-stop Beh NT" (non-stop run through Low Tatras). The website is here: http://nonstopbehnt.sk/. One can view photos and results for the past 15 years on their website.
+
+The Strava segment (that I created and waits for Strava to backtrace all efforts on it) is here: https://www.strava.com/segments/17373964?filter=overall.
+
+I could trace the history of FKTs within the race if that's a good start.

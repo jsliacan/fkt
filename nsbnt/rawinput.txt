@@ -1,1 +1,191 @@
-
+1 1 Fraňo  Peter  1996  M 1 SVK Chata M.R.Štefánika  4:38:11 0:00:00
+2 161 Zvolánek  Richard  1983  M 2 SVK ArchMax SK/CZ Fruitpo  4:43:13 0:05:02
+3 144 Jezierski  Kamil  1980  M 3 POL Kraków  4:45:06 0:06:55
+4 55 Kaľavský  Július  1976  M40 1 SVK All4Run Margecany  4:49:31 0:11:20
+5 157 Matanin  Marcel  1973  M40 2 SVK Retro Running Team  4:51:37 0:13:26
+6 210 Madaj  Milan  1970  M40 3 SVK James Bobrovec  4:54:35 0:16:24
+7 47 Milata  Patrik  1988  M 4 SVK Elite Team OCRA Slova  4:58:11 0:20:00
+8 10 Porubčan  Pavol  1971  M40 4 SVK Jogging klub Dubnica  5:00:18 0:22:07
+9 200 Lami  Michal  1986  M 5 SVK All4Run KE  5:00:56 0:22:45
+10 84 Jambrich  Vladimír  1987  M 6 SVK Kráľova hoľa  5:01:51 0:23:40
+11 124 Šulhánek  Roman  1984  M 7 SVK M.R.C.I.N.A.  5:08:29 0:30:18
+12 131 Kalina  Rastislav  1975  M40 5 SVK Maratón Klub Rajec  5:08:34 0:30:23
+13 216 Ţuffa  Zdenko  1980  M 8 SVK TJ Veterná Poruba  5:08:49 0:30:38
+14 122 Mudron  Ivan  1984  M 9 SVK   5:10:31 0:32:20
+15 95 Malíček  Ján  1966  V 1 SVK MALCO Myjava  5:11:08 0:32:57
+16 94 Svoboda  Karel  1985  M 10 CZE Beton Ski Team SK Bab  5:13:16 0:35:05
+17 167 Rácz  Štefan  1961  V 2 SVK ŠK Budimír  5:14:25 0:36:14
+18 182 Trizna  Lukáš  1985  M 11 SVK Skialp Bobrovec  5:15:32 0:37:21
+19 187 Trnovec Matúš  1988 M 12 SVK ŠK VAZKA Bratislava 5:19:03 0:40:52
+20 223 Hanečák  Marcel  1981  M 13 SVK BK Stará Ľubovňa  5:24:16 0:46:05
+21 198 Feik  Andrej  1972  M40 6 SVK Geriatrix Rudlová  5:26:29 0:48:18
+22 166 Gromus  Tomáš  1976  M40 7 CZE Tomski  5:26:47 0:48:36
+23 221 Bak  Roman  1986  M 14 SVK Generali Run Team  5:27:11 0:49:00
+24 158 Lachnit  Jan  1980  M 15 CZE Liga 100 Olomouc  5:34:42 0:56:31
+25 201 Lamiová  Katarína  1983  F 1 SVK All4Run KE  5:36:51 0:58:40
+26 184 Skladaný  Stanislav  1971  M40 8 SVK Karate klub Atlant NR  5:36:58 0:58:47
+27 195 Lisý  Adam  1988  M 16 SVK Bánovce nad Bebravou  5:38:17 1:00:06
+28 204 Navrátil   Boris  1992  M 17 CZE OK Kamenice  5:38:54 1:00:43
+29 219 Stehlík  Jan  1985  M 18 SVK Detva  5:43:05 1:04:54
+30 175 Švarc  Roman  1974  M40 9 SVK Podbanské  5:43:35 1:05:24
+31 93 Gregor  Štefan  1977  M40 10 SVK BŠK Banská Bystrica  5:44:01 1:05:50
+32 91 Kováč  Jozef  1974  M40 11 SVK Dohňany  5:44:32 1:06:21
+33 135 Fašungová  Petra  1990  F 2 SVK ShangriLa  5:44:41 1:06:30
+34 30 Šlárko  Gabriel  1985  M 19 SVK Irawyou  5:47:32 1:09:21
+35 120 Koprivý  Lukáš  1992  M 20 SVK UPJŠ  5:50:03 1:11:52
+36 179 Nikodem  Milan  1967  V 3 SVK Ironsport Myjava  5:52:07 1:13:56
+37 64 Piller  Jozef  1981  M 21 SVK Liptovská Lúţna  5:54:03 1:15:52
+38 56 Káder  Ladislav  1981  M 22 SVK TJ Veľké Straciny  5:54:07 1:15:56
+39 150 Vereb  Tomáš  1974  M40 12 SVK Košice  5:55:21 1:17:10
+40 189 Klobučník  Igor  1973  M40 13 SVK Nové Zámky  5:56:59 1:18:48
+41 138 Urbancová  Zuzana  1984  F 3 CZE SK Babice  5:57:03 1:18:52
+42 20 Orság  Matej  1987  M 23 SVK All4Run KE  5:57:07 1:18:56
+43 128 Kissová  Marína  1988  F 4 SVK Košice  6:01:16 1:23:05
+44 97 Janura  Peter  1985  M 24 SVK Janurky  6:01:21 1:23:10
+45 111 Kováč  Tibor  1972  M40 14 SVK Banská Bystrica  6:01:27 1:23:16
+46 74 Orlovský  Matúš  1986  M 25 SVK Košice  6:01:53 1:23:42
+47 49 Denke  Radoslav  1977  M40 15 SVK Jogging klub Dubnica  6:03:03 1:24:52
+48 183 Sliačan  Drahomír  1965  V 4 SVK HK Ďumbier Brezno  6:03:16 1:25:05
+49 26 Grunert  Adrián  1981  M 26 SVK Šalamún  6:03:47 1:25:36
+50 18 Novotný  Matej  1985  M 27 SVK Unicef Slovakia  6:06:42 1:28:31
+51 42 Zelenčík  Michal  1996  M 28 SVK Chata M.R.Štefánika  6:06:54 1:28:43
+52 123 Geschnábel  Pavol  1972  M40 16 SVK Banská Bystrica  6:06:59 1:28:48
+53 119 Buchal  Vladimír  1963  V 5 SVK MŠK-AK Ţiar nad Hrono  6:07:21 1:29:10
+54 50 Šmelík  Martin  1996  M 29 SVK ATU Košice  6:08:14 1:30:03
+55 4 Dovala  Tomáš  1983  M 30 SVK Stupava  6:08:57 1:30:46
+56 71 Dolinec  Branislav  1979  M 31 SVK Dolincovci ZV  6:09:19 1:31:08
+57 78 Zaťko  Marek  1987  M 32 SVK Falco BA  6:09:45 1:31:34
+58 121 Pachta  Martin  1988  M 33 CZE Canicross Beskydy  6:10:14 1:32:03
+59 25 Klobošič  Branislav  1973  M40 17 SVK BK Steel KE  6:10:26 1:32:15
+60 207 Tysz  Adam  1987  M 34 SVK ATU Košice  6:10:32 1:32:21
+61 33 Hraboš  Matej  1995  M 35 SVK H2O BB  6:10:39 1:32:28
+62 65 Kušnír  Filip  1988  M 36 SVK Spartan Patriot Team  6:10:44 1:32:33
+63 75 Slaná  Alena  1974  FV 1 SVK Svetielko nádeje  6:11:49 1:33:38
+64 40 Böhm   Radek  1982  M 37 CZE Perun-Nezmar Skymarat  6:12:04 1:33:53
+65 53 Čiţmár  Peter  1968  M40 18 SVK Košice  6:14:42 1:36:31
+66 34 Klimko  Jozef  1986 M 38 SVK Liptovský Mikuláš  6:16:04 1:37:53
+67 29 Bohuš  Juraj  1981 M 39 SVK Dopravoprojekt Run Te  6:17:15 1:39:04
+68 154 Štěpánek  Jakub  1991 M 40 CZE Extra Brno  6:17:48 1:39:37
+69 130 Očko  Jozef  1976  M40 19 SVK Maratón Klub Rajec  6:18:14 1:40:03
+70 218 Šimková  Barbora  1982 F5 SVK Košice  6:21:51 1:43:40
+71 83 Smolár  Andrej  1963 V6 SVK Soitron  6:22:26 1:44:15
+72 39 Bartosik  Igor  1976  M40 20 SVK Baseko Team  6:22:42 1:44:31
+73 60 Sciranko  Jozef  1961 V7 SVK All4Run KE  6:22:59 1:44:48
+74 217 Halaj  Miroslav  1971  M40 21 SVK Bike Team NB  6:26:13 1:48:02
+75 159 Beneš  Eduard  1983 M 41 SVK Nitra  6:26:16 1:48:05
+76 79 Tokár  Michal  1982 M 42 SVK Šušky-hrušky  6:27:15 1:49:04
+77 146 Mičúch  Milan  1972  M40 22 SVK NŠ PT  6:28:01 1:49:50
+78 117 Mikulecká  Marcela  1973  FV2 CZE RunSport  6:28:13 1:50:02
+793 Telepun  Martin  1982 M 43 SVK BK Steel KE  6:28:58 1:50:47
+80 63 Chudík  Tomáš  1981 M 44 SVK Falck Running Team  6:29:03 1:50:52
+81 160 Jaš  Martin  1976  M40 23 SVK Tučniaky Ţilina  6:29:48 1:51:37
+82 208 Gajdošík  Miroslav  1977  M40 24 SVK LTS-Slovakia  6:29:54 1:51:43
+83 180 Snehota  Tomáš  1980 M 45 CZE E.H.F.A.R. Borová  6:31:20 1:53:09
+84 215 Dubec  Miroslav  1982 M 46 SVK Brezno  6:31:21 1:53:10
+85 169 Hasala  Petr  1972  M40 25 CZE CrazyDoc  6:32:18 1:54:07
+86 172 Schvarcz  Jozef  1980 M 47 SVK   6:32:21 1:54:10
+87 171 Laffers  Richard  1980 M 48 SVK IAMES Sučany  6:33:04 1:54:53
+88 202 Styk  Milan  1964 V8 SVK Horoklub BB  6:34:57 1:56:46
+89 27 Gaţo  Emil  1980 M 49 SVK Šalamún  6:35:30 1:57:19
+90 57 Nagy  David  1967  V 9 SVK Penati  6:37:01 1:58:50
+91 139 Falat  Zdenko  1998  M 50 SVK Košice  6:37:21 1:59:10
+92 14 Brantál  František  1981  M 51 SVK Závaţná Poruba  6:37:34 1:59:23
+93 110 Garajová  Katarína  1987  F 6 SVK KBL Jasná LM  6:37:57 1:59:46
+94 24 Kmeť  Marián  1983  M 52 SVK Martin  6:40:19 2:02:08
+95 194 Lisá  Dáša  1992  F 7 SVK Výţivná štvorka  6:41:19 2:03:08
+96 2 Hošeková  Vanda  1996  F 8 SVK Magura RUN  6:42:47 2:04:36
+97 153 Cichá  Barbora  1994  F 9 CZE Extra Brno  6:43:04 2:04:53
+98 152 Varga  Juraj  1993  M 53 CZE Extra Brno  6:43:07 2:04:56
+99 191 Beťko  Matej  1986  M 54 SVK Závaţná Poruba  6:43:34 2:05:23
+100 114 Červeň  Jozef  1988  M 55 SVK James Bobrovec  6:43:34 2:05:23
+101 185 Šlosár  Mário  1985  M 56 SVK MTC Vyšná Šebastová  6:44:08 2:05:57
+102 132 Janíček  Jaroslav  1964  V 10 SVK TriPé Liptov  6:46:35 2:08:24
+103 151 Kontúr  Karol  1977  M40 26 SVK KONTUR  6:49:08 2:10:57
+104 6 Harvančík  Jozef  1971  M40 27 SVK Dopravoprojekt Run Te  6:50:03 2:11:52
+105 165 Valach  Peter  1961  V 11 SVK Zvolen  6:51:22 2:13:11
+106 127 Michalec  Branislav  1984  M 57 SVK Maratón Klub Rajec  6:52:44 2:14:33
+107 13 Šulko  Dávid  1988  M 58 SVK Trnava  6:54:12 2:16:01
+108 62 Babiak  Tomáš  1984  M 59 SVK Banská Bystrica  6:54:58 2:16:47
+109 89 Sýkora  Rastislav  1984  M 60 SVK RUNDA  6:56:34 2:18:23
+110 136 Dindoffer  René  1980  M 61 SVK Hlava v oblakoch  6:57:45 2:19:34
+111 133 Lipták  Štefan  1989  M 62 SVK Gemerský Sad  6:57:53 2:19:42
+112 73 Luzsicza  Adam  1987  M 63 SVK ShangriLa  6:58:40 2:20:29
+113 115 Šimoniková  Zuzana  1987  F 10 SVK ShangriLa  6:58:40 2:20:29
+114 28 Stopková  Jana  1976  FV 3 CZE H.O.R.A.L. Praha   6:58:52 2:20:41
+115 212 Uhrin  Bohumil  1990  M 64 SVK Slovnaft  7:01:23 2:23:12
+116 37 Šuleková  Natália  1973  FV 4 SVK ŠBK VTJ Zvolen  7:01:44 2:23:33
+117 92 Kalman  Jozef  1988  M 65 SVK Ratkovské Bystré  7:02:59 2:24:48
+118 186 Giertli  Tomáš  1967  V 12 SVK Čierny Balog - Dobroč  7:03:19 2:25:08
+119 196 Mén  Vladimír  1965  V 13 SVK Banská Bystrica  7:04:21 2:26:10
+120 88 Veselovský  Peter  1983  M 66 SVK FitSpolu  7:04:50 2:26:39
+121 156 Balazs  Jozsef  1973  M40 28 HUN Mountainhippy  7:05:23 2:27:12
+122 193 Hricko  Andrej  1971  M40 29 SVK Polar Alpin Trenčín  7:06:08 2:27:57
+123 11 Tokár  Pavol  1981  M 67 SVK Šušky-hrušky  7:07:51 2:29:40
+124 134 Blaho  Marián  1980  M 68 SVK Dohňany  7:07:59 2:29:48
+125 8 Dugas  Branislav  1976  M40 30 SVK Adastra  7:08:52 2:30:41
+126 85 Vechter  Michal  1991  M 69 SVK Východná  7:10:16 2:32:05
+127 188 Ďurčo  Dominik  1997  M 70 SVK SummerSnow  7:11:19 2:33:08
+128 113 Lukáč  Mikuláš  1982  M 71 SVK Vitalcity  7:13:48 2:35:37
+129 45 Tóth  Tomáš  1981  M 72 SVK Šušky-hrušky  7:14:05 2:35:54
+130 174 Lukačka  Roman  1969  M40 31 SVK Handlová  7:14:45 2:36:34
+131 36 Esterka  Jaroslav  1972  M40 32 SVK E100  7:15:41 2:37:30
+132 80 Malina  Tomáš  1982  M 73 SVK TGM Interier  7:17:20 2:39:09
+133 70 Figlewicz  Piotr  1985  M 74 POL KW Warszawa  7:19:22 2:41:11
+134 61 Marko  Jozef  1971  M40 33 SVK Prievidza  7:19:50 2:41:39
+135 81 Alexanderčíková  Zuzana  1981  F 11 SVK BK Spartak Medzev  7:19:58 2:41:47
+136 12 Horňák  Rastislav  1979  M 75 SVK Pezinok  7:20:02 2:41:51
+137 197 Kolárik  Stanislav  1978  M 76 SVK Ironsport Myjava  7:22:14 2:44:03
+138 203 Fongus  Juraj  1987  M 77 SVK Liptovská Lúţna  7:22:40 2:44:29
+139 67 Múdry  Peter  1975  M40 34 SVK Vitalcity  7:23:27 2:45:16
+140 192 Boledovič  Martin  1978  M 78 SVK Trnava  7:24:40 2:46:29
+141 178 Laţo  Martin  1980  M 79 SVK Vitalcity  7:24:41 2:46:30
+142 108 Alex  Vladimír  1971  M40 35 SVK Retro Running Team  7:26:00 2:47:49
+143 46 Kalaber  Ladislav  1980  M 80 SVK TiNeT  7:29:37 2:51:26
+144 109 Zvrškovec  Michal  1983  M 81 SVK Retro Running Team  7:29:46 2:51:35
+145 41 Ivan  Miroslav  1985  M 82 SVK Running Team ZV  7:30:07 2:51:56
+146 126 Uhlárik  Pavol  1959  V 14 SVK Maratón Klub Rajec  7:35:59 2:57:48
+147 99 Skaba  Martin  1988  M 83 SVK Klopiči  7:36:26 2:58:15
+148 54 Bernik  Ivan  1974  M40 36 SVK KVRPS  7:36:26 2:58:15
+149 9 Pápai  Peter  1979  M 84 SVK Beţci LC  7:36:53 2:58:42
+150 129 Janík  Lukáš  1987  M 85 SVK Maratón Klub Rajec  7:36:58 2:58:47
+151 69 Walterová  Andrea  1973  FV 5 SVK Dopravoprojekt Run Te  7:37:07 2:58:56
+152 43 Smiţanský  Peter  1967  V 15 SVK CrossCountryClub Rača  7:37:49 2:59:38
+153 206 Franko  Miroslav  1971  M40 37 SVK Run For Fun  7:38:37 3:00:26
+154 214 Vavrinčík  Juraj  1971  M40 38 SVK VAPOL   7:40:48 3:02:37
+155 76 Škopek  Peter  1970  M40 39 SVK Myjava  7:42:22 3:04:11
+156 209 Bačík  Kristián  1991  M 86 SVK Soccorso Alpino  7:42:56 3:04:45
+157 137 Eliáš  Martin  1988  M 87 SVK Myjava  7:43:10 3:04:59
+158 155 Šmihálová  Renáta  1993  F 12 SVK Happy Feet  7:43:46 3:05:35
+159 58 Chroust  Jan  1960  V 16 CZE RC Falkenštejn Krás.   7:44:07 3:05:56
+160 112 Danko  Slavomír  1974  M40 40 SVK Divina  7:45:15 3:07:04
+161 125 Šipoš  Marián  1971  M40 41 SVK Dopravoprojekt Run Te  7:46:52 3:08:41
+162 140 Baratková  Alţbeta  1985  F 13 SVK Hulman klan  7:47:39 3:09:28
+163 181 Brodňan  Ludovít  1959  V 17 SVK Ţilina  7:48:01 3:09:50
+164 68 Turňa  Štefan  1970  M40 42 SVK Bratislava  7:50:23 3:12:12
+165 86 Elko  Dušan  1974  M40 43 SVK Tatry Mountain Runner  7:52:20 3:14:09
+166 116 Lukáč  Radovan  1973  M40 44 SVK Nová Lesná  7:54:34 3:16:23
+167 168 Morávek   Ján  1975  M40 45 SVK Bratislava  7:55:31 3:17:20
+168 32 Mozsnyak  Peter  1974  M40 46 SVK RunningPro  7:56:08 3:17:57
+169 48 Gutten  Ľubomír  1973  M40 47 SVK Senohrad  7:56:48 3:18:37
+170 82 Karkoška  Jan  1978  M 88 CZE 4 karkošky  8:01:30 3:23:19
+171 98 Ludha  Igor  1988  M 89 SVK Klopiči  8:07:44 3:29:33
+172 100 Hrubý  Michal  1987  M 90 SVK Klopiči  8:07:44 3:29:33
+173 177 Novotný  Václav  1982  M 91 CZE HO Skol / Pomalí Kluc  8:10:33 3:32:22
+174 141 Honišek  Daniel  1985  M 92 SVK Veľký Šariš  8:10:50 3:32:39
+175 17 Hulman  Erich  1959  V 18 SVK Hulman klan  8:12:31 3:34:20
+176 107 Húščava  Roman  1973  M40 48 SVK Retro Running Team  8:13:53 3:35:42
+177 106 Lukačovič  Michal  1978  M 93 SVK Retro Running Team  8:13:59 3:35:48
+178 205 Ternenyová  Viola  1988  F 14 SVK AC Lokomotíva BA  8:14:57 3:36:46
+179 142 Gúgľava  Matúš  1988  M 94 SVK Banská Bystrica  8:17:58 3:39:47
+180 7 Hrtan  Zolo  1971  M40 49 SVK 3nt BA  8:25:36 3:47:25
+181 38 Turoň  Michal  1988  M 95 SVK Ruţomberok  8:26:32 3:48:21
+182 176 Trombík  Miroslav  1974  M40 50 CZE Písek u Jablunkova  8:27:13 3:49:02
+183 162 Trombík  Milan  1972  M40 51 CZE Písek  8:42:13 4:04:02
+184 72 Šmelíková  Hana  1969  FV 6 SVK TJ Farmaceut BA  8:43:11 4:05:00
+185 148 Kyselica  Michal  1979  M 96 SVK   8:46:13 4:08:02
+186 102 Frič  Jana  1985  F 15 SVK Retro Running Team  8:46:53 4:08:42
+187 104 Frič  Marián  1974  M40 52 SVK Retro Running Team  8:46:54 4:08:43
+188 211 Tserkezopoulos  Stamatios  1972  M40 53 GRE Athens  8:54:30 4:16:19
+189 103 Lacko  Tomáš  1967  V 19 SVK Retro Running Team  9:39:58 5:01:47
+190 190 Hyclak  Vladimír  1962  V 20 SVK Tatranská minerálka  9:50:58 5:12:47
+191 15 Hulmanová  Katarína  1958  FV 7 SVK Hulman klan  10:47:58 6:09:47
